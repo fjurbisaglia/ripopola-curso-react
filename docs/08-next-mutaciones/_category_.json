@@ -1,0 +1,9 @@
+{
+  "label": "8. Next.js: mutaciones y servidor",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "slug": "/next-mutaciones",
+    "description": "Server Actions, formularios, Route Handlers, proxy, cookies y cuándo Next hace de backend."
+  }
+}

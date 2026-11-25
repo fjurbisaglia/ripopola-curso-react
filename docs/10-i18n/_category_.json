@@ -1,0 +1,9 @@
+{
+  "label": "10. Idiomas",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "slug": "/i18n",
+    "description": "next-intl, rutas por idioma y contenido traducido que viene de la API, con SEO multidioma."
+  }
+}

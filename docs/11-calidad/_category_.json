@@ -1,0 +1,9 @@
+{
+  "label": "11. Pruebas, rendimiento y seguridad",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "slug": "/calidad",
+    "description": "Vitest y Testing Library, MSW, Playwright, Core Web Vitals, seguridad en el frontend y errores en producción."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "3. React por dentro (nivel senior)",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/react-senior",
+    "description": "Render y reconciliación, memoización y React Compiler, perfilado, patrones de componentes, accesibilidad y TypeScript con React."
+  }
+}

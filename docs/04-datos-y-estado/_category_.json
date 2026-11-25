@@ -1,0 +1,9 @@
+{
+  "label": "4. Datos del servidor y estado",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "/datos-y-estado",
+    "description": "Cliente tipado de la API de Nest, TanStack Query, mutaciones, Zustand, Redux Toolkit como concepto y estado en la URL."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "label": "9. Autenticación con Better Auth",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "slug": "/auth",
+    "description": "Sesiones con cookies, Better Auth en Nest y su cliente en Next, login con email y Google, sesión en servidor y cliente, rutas protegidas y doble factor."
+  }
+}

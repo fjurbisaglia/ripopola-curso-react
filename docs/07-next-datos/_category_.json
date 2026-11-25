@@ -1,0 +1,9 @@
+{
+  "label": "7. Next.js: datos, caché y render",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "slug": "/next-datos",
+    "description": "Pedir datos en el servidor, streaming, Cache Components, revalidación, páginas estáticas de pueblos, paginación y TanStack Query con Next."
+  }
+}

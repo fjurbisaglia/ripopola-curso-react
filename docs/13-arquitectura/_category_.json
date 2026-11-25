@@ -1,0 +1,9 @@
+{
+  "label": "13. Arquitectura de frontend",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "slug": "/arquitectura",
+    "description": "Estructura por features, monorepo y contratos, cómo decidir el render de cada página y el resto del ecosistema React."
+  }
+}

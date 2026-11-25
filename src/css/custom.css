@@ -1,0 +1,72 @@
+/* Tema con los colores de React (react.dev usa #087ea4 para enlaces y #58c4dc en oscuro) */
+:root {
+  --ifm-color-primary: #087ea4;
+  --ifm-color-primary-dark: #077194;
+  --ifm-color-primary-darker: #066b8b;
+  --ifm-color-primary-darkest: #055873;
+  --ifm-color-primary-light: #098bb4;
+  --ifm-color-primary-lighter: #0991bd;
+  --ifm-color-primary-lightest: #0aa4d5;
+  --ifm-code-font-size: 92%;
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --ifm-heading-font-weight: 800;
+  --ifm-navbar-background-color: #fff;
+  --docusaurus-highlighted-code-line-bg: rgba(8, 126, 164, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #58c4dc;
+  --ifm-color-primary-dark: #3fbad6;
+  --ifm-color-primary-darker: #32b5d3;
+  --ifm-color-primary-darkest: #2697b1;
+  --ifm-color-primary-light: #71cee2;
+  --ifm-color-primary-lighter: #7ed2e5;
+  --ifm-color-primary-lightest: #a5e0ed;
+  --ifm-background-color: #16181d;
+  --ifm-background-surface-color: #23272f;
+  --ifm-navbar-background-color: #16181d;
+  --docusaurus-highlighted-code-line-bg: rgba(88, 196, 220, 0.16);
+}
+
+/* Tablas: que ocupen el ancho y se lean bien */
+.markdown table {
+  display: table;
+  width: 100%;
+  font-size: 0.93rem;
+}
+
+.markdown table thead tr {
+  background: var(--ifm-color-emphasis-100);
+}
+
+/* Títulos de sección con una barra celeste, como en react.dev */
+.markdown h2 {
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+  margin-top: 2.5rem;
+}
+
+.markdown h2::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 1.1em;
+  margin-right: 0.55rem;
+  vertical-align: -0.12em;
+  border-radius: 2px;
+  background: var(--ifm-color-primary);
+}
+
+/* Preguntas de entrevista en negrita: un poco más de aire */
+.markdown p > strong:first-child {
+  color: var(--ifm-color-primary-darkest);
+}
+
+[data-theme='dark'] .markdown p > strong:first-child {
+  color: var(--ifm-color-primary-lightest);
+}
+
+/* Bloques <details> (soluciones de ejercicios) */
+.markdown details {
+  border-color: var(--ifm-color-emphasis-300);
+}

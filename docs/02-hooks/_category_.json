@@ -1,0 +1,9 @@
+{
+  "label": "2. Hooks a fondo",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "/hooks",
+    "description": "useEffect, useRef, useReducer, Context, hooks propios, Suspense, use, transiciones y los hooks de formularios de React 19."
+  }
+}

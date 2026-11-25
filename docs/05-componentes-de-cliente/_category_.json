@@ -1,0 +1,9 @@
+{
+  "label": "5. Componentes de cliente en ripopola",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "slug": "/componentes-cliente",
+    "description": "El buscador de pueblos, el mapa con MapLibre, los formularios con React Hook Form y Zod, y la subida de imágenes."
+  }
+}

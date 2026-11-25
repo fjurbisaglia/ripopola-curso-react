@@ -1,0 +1,9 @@
+{
+  "label": "6. Next.js: fundamentos",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "/next",
+    "description": "Estrategias de render, App Router, Server y Client Components, navegación, archivos especiales, metadata y SEO, imágenes y rutas avanzadas."
+  }
+}

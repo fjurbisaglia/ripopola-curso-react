@@ -1,0 +1,9 @@
+{
+  "label": "12. Producción",
+  "position": 13,
+  "link": {
+    "type": "generated-index",
+    "slug": "/produccion",
+    "description": "Build standalone, Docker, despliegue en Cloud Run, Firebase App Hosting o Vercel, y CI con GitHub Actions."
+  }
+}
