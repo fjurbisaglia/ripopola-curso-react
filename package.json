@@ -2,6 +2,7 @@
   "name": "ripopola-curso-react",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@12.21.0",
   "description": "Curso propio de React y Next.js construyendo el frontend de ripopola.",
   "scripts": {
     "start": "docusaurus start",

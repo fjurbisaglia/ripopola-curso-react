@@ -7,9 +7,13 @@ const config: Config = {
   tagline: 'Curso de React y Next.js construyendo el frontend de un proyecto real',
   favicon: 'img/favicon.svg',
 
-  // Cambiar cuando se publique (por ejemplo en GitHub Pages)
-  url: 'https://example.com',
-  baseUrl: '/',
+  // Publicado en GitHub Pages: https://fjurbisaglia.github.io/ripopola-curso-react/
+  url: 'https://fjurbisaglia.github.io',
+  baseUrl: '/ripopola-curso-react/',
+  organizationName: 'fjurbisaglia',
+  projectName: 'ripopola-curso-react',
+  // GitHub Pages: fijarlo explícitamente evita redirecciones y links rotos
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   markdown: {
